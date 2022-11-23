@@ -125,10 +125,4 @@ Refer below sample
   }
 }
 ```
-Mandatory instructions to follow to get your Aws3 college logo link mandatory for all
 
-1. Only one submission is allowed. 
-2. Before submitting verify that your image is not corrupt and downloadable
-3. Abbreviation should be in lowercase. For example nitsurathkal as abbreviation and the image name should be nitsurathkal.jpeg 
-NOTE The image name must be the same as the college abbreviation.
-4. There shouldn't be any space in between name of college for abbrevation and for images too. Only u can use - hyphen in between any two words example: chennai-university as abbrevation and chennai-university.png image name is CORRECT whereas chennai university.jpeg is WRONG

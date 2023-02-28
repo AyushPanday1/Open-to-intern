@@ -12,4 +12,7 @@ In this project there are three schemas related to interns and colleges.
 2. Api for creating details of college.
 3. Api for fetching details of colleges who offers internship.
 
+## Dependencies :
+Mongoose, Body-parser and express.js framework.
+
 

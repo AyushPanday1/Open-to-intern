@@ -10,5 +10,6 @@ In this project there are three schemas related to interns and colleges.
 
 1. Api for creating details of intern.
 2. Api for creating details of college.
+3. Api for fetching details of colleges who offers internship.
 
 

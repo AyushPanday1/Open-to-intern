@@ -4,4 +4,11 @@ This Project is about a management between the students who are looking for inte
 
 ## Models:
 
-In this project there are three schemas related to students, colleges an
+In this project there are three schemas related to interns and colleges.
+
+## RESTFUL API's
+
+1. Api for creating details of intern.
+2. Api for creating details of college.
+
+
